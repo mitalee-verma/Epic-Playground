@@ -121,6 +121,7 @@ body {
 .card__title {
     font-size: var(--h2-font-size, 1.25rem);
     font-weight: 500;
+    font-weight: bold;
     color: var(--title-color, rgb(239, 236, 236));
     margin-bottom: .75rem;
 }
