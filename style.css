@@ -114,7 +114,7 @@ body {
 
 .card__description {
     display: block;
-    font-size: var(--small-font-size, .813rem);
+    font-size: 15px;
     margin-bottom: .25rem;
 }
 
